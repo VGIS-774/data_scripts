@@ -133,3 +133,4 @@ background_videos/
 dataset/
 mini_project_dataset/
 logs/
+.DS_Store
