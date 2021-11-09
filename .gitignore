@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+thermal_video_data/
+background_videos/
+dataset/
+mini_project_dataset/
+logs/
