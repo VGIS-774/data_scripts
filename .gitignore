@@ -133,4 +133,5 @@ background_videos/
 dataset/
 mini_project_dataset/
 logs/
+unity_data/
 .DS_Store
