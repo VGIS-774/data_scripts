@@ -1,0 +1,705 @@
+{
+  "version": "0.0.1",
+  "metrics": [
+    {
+      "capture_id": "32f149b0-959c-46f2-aef2-0e44408e70f0",
+      "annotation_id": null,
+      "sequence_id": "2adf7dd7-ebd4-4a1b-93f8-0aba74b00884",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 9,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 85,
+            "a": 255
+          },
+          "visible_pixels": 435
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "deb16c4a-3dd4-43a5-bcec-9b53f02d7c5b",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 3779
+        }
+      ]
+    },
+    {
+      "capture_id": "45071b17-05cf-43fd-8c9a-1c788be52b2c",
+      "annotation_id": null,
+      "sequence_id": "deb16c4a-3dd4-43a5-bcec-9b53f02d7c5b",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 26,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 180,
+            "a": 255
+          },
+          "visible_pixels": 290
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "904b8c91-e776-4854-ad97-56046fd654b3",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 3829
+        }
+      ]
+    },
+    {
+      "capture_id": "91c527e7-5012-4932-8a57-a14b9c7541cc",
+      "annotation_id": null,
+      "sequence_id": "904b8c91-e776-4854-ad97-56046fd654b3",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 26,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 180,
+            "a": 255
+          },
+          "visible_pixels": 255
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "a4d55457-383f-4d46-b9ad-779de5d8f35b",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 3879
+        }
+      ]
+    },
+    {
+      "capture_id": "b3aff07c-1c92-4607-b45e-f41a83ded95a",
+      "annotation_id": null,
+      "sequence_id": "a4d55457-383f-4d46-b9ad-779de5d8f35b",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 26,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 180,
+            "a": 255
+          },
+          "visible_pixels": 266
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "9db9c627-268c-4cd1-b773-ec606da69ae9",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 3929
+        }
+      ]
+    },
+    {
+      "capture_id": "5e31fc58-a1ff-4f74-ad76-2555012e4975",
+      "annotation_id": null,
+      "sequence_id": "9db9c627-268c-4cd1-b773-ec606da69ae9",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 26,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 180,
+            "a": 255
+          },
+          "visible_pixels": 244
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "c3f65709-a37d-48c0-9725-989bd6ee8bea",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 3979
+        }
+      ]
+    },
+    {
+      "capture_id": "b7ee0073-1ef4-48ec-a0a0-e0024b48ba81",
+      "annotation_id": null,
+      "sequence_id": "c3f65709-a37d-48c0-9725-989bd6ee8bea",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 26,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 180,
+            "a": 255
+          },
+          "visible_pixels": 239
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "c1ab8023-21b7-4265-a333-f4f1c1e98815",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4029
+        }
+      ]
+    },
+    {
+      "capture_id": "bb67db07-d052-42ad-a03d-6280e5f39e24",
+      "annotation_id": null,
+      "sequence_id": "c1ab8023-21b7-4265-a333-f4f1c1e98815",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "0deb12a0-76cd-4209-bdf1-75f502945c01",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4079
+        }
+      ]
+    },
+    {
+      "capture_id": "c4a9af84-973e-444d-af92-696e3b56ddf3",
+      "annotation_id": null,
+      "sequence_id": "0deb12a0-76cd-4209-bdf1-75f502945c01",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "1c4d36af-b2a0-4a7b-9159-85e6a293bc46",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4129
+        }
+      ]
+    },
+    {
+      "capture_id": "10c97d01-5ffe-43a7-8ddc-2d8fec03007b",
+      "annotation_id": null,
+      "sequence_id": "1c4d36af-b2a0-4a7b-9159-85e6a293bc46",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "dac6ca72-f65f-429b-a43b-bbc0dc53f9b8",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4179
+        }
+      ]
+    },
+    {
+      "capture_id": "8000e80a-6c3a-4137-bbb5-89558f6c0c32",
+      "annotation_id": null,
+      "sequence_id": "dac6ca72-f65f-429b-a43b-bbc0dc53f9b8",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2216ea3d-82c0-4f8b-8002-a64c543ad822",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4229
+        }
+      ]
+    },
+    {
+      "capture_id": "d7a1eda6-1824-4d0c-9290-c17302f9eb05",
+      "annotation_id": null,
+      "sequence_id": "2216ea3d-82c0-4f8b-8002-a64c543ad822",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ef5dde5f-79b9-41a0-ab4f-f9bc3f775af2",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4279
+        }
+      ]
+    },
+    {
+      "capture_id": "bdd58ffd-4e1e-4a9a-a12b-c3f437b7203b",
+      "annotation_id": null,
+      "sequence_id": "ef5dde5f-79b9-41a0-ab4f-f9bc3f775af2",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "bbc16938-710d-44a6-974d-f039c13da1b7",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4329
+        }
+      ]
+    },
+    {
+      "capture_id": "73872f5c-0e11-4939-a3e6-9c2d979ff621",
+      "annotation_id": null,
+      "sequence_id": "bbc16938-710d-44a6-974d-f039c13da1b7",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "d24469f6-8710-46e5-aef0-07307051bcd1",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4379
+        }
+      ]
+    },
+    {
+      "capture_id": "bf4ce290-336b-46b8-9393-60d4dbc2681f",
+      "annotation_id": null,
+      "sequence_id": "d24469f6-8710-46e5-aef0-07307051bcd1",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "702b7175-2afb-4037-9d67-6fc4658169e8",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4429
+        }
+      ]
+    },
+    {
+      "capture_id": "f50f2192-17dc-463f-9680-b5e7701d057b",
+      "annotation_id": null,
+      "sequence_id": "702b7175-2afb-4037-9d67-6fc4658169e8",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4aa75d51-bc91-4ced-9ce1-9b476979ad51",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4479
+        }
+      ]
+    },
+    {
+      "capture_id": "cfcd5371-4403-4e01-bda5-c356501e2492",
+      "annotation_id": null,
+      "sequence_id": "4aa75d51-bc91-4ced-9ce1-9b476979ad51",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": []
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "ee482057-c1f9-4cd9-bc5b-f66c8838c1bb",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4529
+        }
+      ]
+    },
+    {
+      "capture_id": "143a5098-e43e-410a-a0f1-094c1df1a76f",
+      "annotation_id": null,
+      "sequence_id": "ee482057-c1f9-4cd9-bc5b-f66c8838c1bb",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 22,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 33,
+            "a": 255
+          },
+          "visible_pixels": 452
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "b49ec430-88bc-480c-822f-b1b55ceecf9f",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4579
+        }
+      ]
+    },
+    {
+      "capture_id": "783c907b-73fc-472a-b6f1-17bac123e1dd",
+      "annotation_id": null,
+      "sequence_id": "b49ec430-88bc-480c-822f-b1b55ceecf9f",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 22,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 33,
+            "a": 255
+          },
+          "visible_pixels": 458
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "a5056b06-a8af-4f9a-9298-719608bcff4a",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4629
+        }
+      ]
+    },
+    {
+      "capture_id": "c04f9b1f-6433-47ef-9acc-e1be132ea513",
+      "annotation_id": null,
+      "sequence_id": "a5056b06-a8af-4f9a-9298-719608bcff4a",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 22,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 33,
+            "a": 255
+          },
+          "visible_pixels": 462
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "bc5e89fa-e79a-4eeb-aee4-3e248de25764",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4679
+        }
+      ]
+    },
+    {
+      "capture_id": "06009329-b862-4361-b7e8-f610531e6314",
+      "annotation_id": null,
+      "sequence_id": "bc5e89fa-e79a-4eeb-aee4-3e248de25764",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 22,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 33,
+            "a": 255
+          },
+          "visible_pixels": 463
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4bd866a0-59dc-4635-bb7e-820d92b3bae9",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4729
+        }
+      ]
+    },
+    {
+      "capture_id": "44aa81bd-80ed-4e39-a5bb-2bfcc70dcb2e",
+      "annotation_id": null,
+      "sequence_id": "4bd866a0-59dc-4635-bb7e-820d92b3bae9",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 22,
+          "instance_color": {
+            "r": 255,
+            "g": 0,
+            "b": 33,
+            "a": 255
+          },
+          "visible_pixels": 469
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "91323df7-94f4-4a53-995b-00919277dad8",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4779
+        }
+      ]
+    },
+    {
+      "capture_id": "ac73900c-82ce-4080-b2d3-74ac96aa0775",
+      "annotation_id": null,
+      "sequence_id": "91323df7-94f4-4a53-995b-00919277dad8",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 410
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "7f7ff2a4-4537-4881-a814-9058f93bd447",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4829
+        }
+      ]
+    },
+    {
+      "capture_id": "326d5e86-e18b-4d25-9b2e-a4f4fb4a80d6",
+      "annotation_id": null,
+      "sequence_id": "7f7ff2a4-4537-4881-a814-9058f93bd447",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 354
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "4cffae84-b076-4272-8a78-607062bf85e4",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4879
+        }
+      ]
+    },
+    {
+      "capture_id": "981479c3-556a-49ca-831e-a9c6215d41e6",
+      "annotation_id": null,
+      "sequence_id": "4cffae84-b076-4272-8a78-607062bf85e4",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 326
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "2aa547b9-4e27-4187-ba9e-520666ad62df",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4929
+        }
+      ]
+    },
+    {
+      "capture_id": "0155fbaf-e00d-4ade-92d9-8d610a6abd0e",
+      "annotation_id": null,
+      "sequence_id": "2aa547b9-4e27-4187-ba9e-520666ad62df",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 322
+        }
+      ]
+    },
+    {
+      "capture_id": null,
+      "annotation_id": null,
+      "sequence_id": "44e21710-7f6d-4080-958a-1b94d57af385",
+      "step": 0,
+      "metric_definition": "db1b258e-d1d0-41b6-8751-16f601a2e230",
+      "values": [
+        {
+          "iteration": 4979
+        }
+      ]
+    },
+    {
+      "capture_id": "959fa94d-931f-4afd-ba3e-b05464fc45cd",
+      "annotation_id": null,
+      "sequence_id": "44e21710-7f6d-4080-958a-1b94d57af385",
+      "step": 0,
+      "metric_definition": "5ba92024-b3b7-41a7-9d3f-c03a6a8ddd01",
+      "values": [
+        {
+          "label_id": 1,
+          "instance_id": 13,
+          "instance_color": {
+            "r": 0,
+            "g": 255,
+            "b": 127,
+            "a": 255
+          },
+          "visible_pixels": 256
+        }
+      ]
+    }
+  ]
+}

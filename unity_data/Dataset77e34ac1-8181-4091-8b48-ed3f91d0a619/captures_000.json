@@ -1,0 +1,8385 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "e7699a9b-6dbe-4edc-b487-aa06b7cfdcf1",
+      "sequence_id": "583d9386-39c7-458f-90d4-9b244656c6d4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_1.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "07dba333-0175-4779-a90c-a81e0f9fc6ec",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 3,
+  "x": 65.0,
+  "y": 229.0,
+  "width": 42.0,
+  "height": 35.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 2,
+  "x": 37.0,
+  "y": 495.0,
+  "width": 45.0,
+  "height": 36.0
+}
+          ]
+        },
+        {
+          "id": "932fa324-e846-4109-a7f2-6ab3b4e29464",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_1.png",
+          "values": [
+            {
+  "instance_id": 3,
+  "color": {
+    "r": 149,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 2,
+  "color": {
+    "r": 0,
+    "g": 74,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90f71a7d-76d7-417f-819f-62f4502810c4",
+      "sequence_id": "88dd6de7-1ae4-43ee-8c66-a03244423991",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "91ba7b76-becf-4f99-91ba-130acf711a7b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 3,
+  "x": 65.0,
+  "y": 230.0,
+  "width": 43.0,
+  "height": 34.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 2,
+  "x": 37.0,
+  "y": 495.0,
+  "width": 45.0,
+  "height": 37.0
+}
+          ]
+        },
+        {
+          "id": "67e19012-826a-4aa0-a25b-25fc3622e678",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_2.png",
+          "values": [
+            {
+  "instance_id": 3,
+  "color": {
+    "r": 149,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 2,
+  "color": {
+    "r": 0,
+    "g": 74,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "72a122c3-9774-42f7-b9d7-49753492a49b",
+      "sequence_id": "f2ac0c9c-bb45-4bb4-9c7b-1166518e25b4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a2659cbd-ebbd-48ca-a771-731eb8e77775",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 3,
+  "x": 64.0,
+  "y": 228.0,
+  "width": 44.0,
+  "height": 37.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 2,
+  "x": 38.0,
+  "y": 495.0,
+  "width": 44.0,
+  "height": 37.0
+}
+          ]
+        },
+        {
+          "id": "d03e5110-7eb1-4732-8ba9-eb63655cedc9",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_3.png",
+          "values": [
+            {
+  "instance_id": 3,
+  "color": {
+    "r": 149,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 2,
+  "color": {
+    "r": 0,
+    "g": 74,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9663fbf3-5c4d-42f5-b650-a1366031f0a2",
+      "sequence_id": "2a3e4beb-b6f8-4866-9c16-840250bd46d2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5f4e3407-067c-41a1-9268-097dbfa47527",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 3,
+  "x": 63.0,
+  "y": 227.0,
+  "width": 45.0,
+  "height": 37.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 2,
+  "x": 38.0,
+  "y": 495.0,
+  "width": 44.0,
+  "height": 37.0
+}
+          ]
+        },
+        {
+          "id": "239ae1c5-d3aa-49a1-bd20-3ea331ba0341",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_4.png",
+          "values": [
+            {
+  "instance_id": 3,
+  "color": {
+    "r": 149,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 2,
+  "color": {
+    "r": 0,
+    "g": 74,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed98dfb1-8d0f-4976-a9a8-19fb3ab378d4",
+      "sequence_id": "a79705f8-e065-426d-a929-14bf4b57ca3d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e3a62260-3c21-40a2-aa88-610896dbc68f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 3,
+  "x": 62.0,
+  "y": 225.0,
+  "width": 46.0,
+  "height": 39.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 2,
+  "x": 38.0,
+  "y": 494.0,
+  "width": 44.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "34b4a1be-88e9-47e5-86ca-aa4997dfbcbf",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_5.png",
+          "values": [
+            {
+  "instance_id": 3,
+  "color": {
+    "r": 149,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 2,
+  "color": {
+    "r": 0,
+    "g": 74,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d98acc7-fbab-48f2-a7cf-cdf4ea3c930e",
+      "sequence_id": "2b4fc116-50ab-412d-8a84-9fdf431493d2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "705ed51d-55c5-439a-966d-554c9fbc175b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "de553f68-d16f-4318-a96e-a3325f59adad",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_6.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "99f008bc-0b0d-4839-b98d-35f58043df4b",
+      "sequence_id": "f94982ae-0ea3-4b2e-adb3-4ae7011423ea",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c8e38ed7-24f7-4def-829d-fcf29e786450",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "33024c0d-988e-48fe-979a-f1f46587fecf",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_7.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e7a73d44-03b6-49e7-80a6-f26eeaf9e2cc",
+      "sequence_id": "7b3c37cf-a6a4-4d30-999a-f0898b747dba",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "632cc0c1-083d-40b6-a35f-a350667dc716",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "0b524695-50b0-4eab-bf99-c39de3a7dfab",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_8.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "b1aebed5-8245-4ead-8763-0954f6defbb5",
+      "sequence_id": "8c1f6440-542f-469f-aa31-0abe0bfade3c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "38a4b036-ec47-4d16-b11e-0ea1cf706797",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "74c69473-4525-4afd-960e-614cd1712b5b",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_9.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "18733eb3-56a4-4494-b65c-53340ccbaa51",
+      "sequence_id": "6b574e03-409e-4fcc-978b-0ac8662cfd3f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f27631f3-2cce-498f-b170-8400359f6d52",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "9fdd054b-5049-4a37-8f39-3cc5ff2b34fb",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_10.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "df7e5880-40e4-4de0-852f-45bb7fa6ee8d",
+      "sequence_id": "f46fb0ca-ab01-4b51-a212-3a672fdc2e9a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "da97df30-2ebf-417f-880f-19c8ac545f82",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "0f5c97a2-dda1-4b24-81ac-460fa2a986de",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_11.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2c57ab6d-0509-47f6-97c7-cb30c83f1d32",
+      "sequence_id": "ecdcf230-9303-409b-944a-fbfb35a3de93",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_12.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d8ef4b4f-2fc7-4587-9d3a-9455767d7ec0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "746e49b7-2841-4832-9286-b750df49959a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_12.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "13dcbe83-1199-4063-a003-54f1ba035ad1",
+      "sequence_id": "36abe83c-a145-49b8-86f1-d94728d4798e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_13.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9a8ce322-5bee-4ca8-a573-1a722796762e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "529aa558-1e77-40a0-87ef-10f674e4dd1a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_13.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e00d9c3f-dbe9-46fd-b603-8ddb7df8a5ca",
+      "sequence_id": "6928ba9f-2b30-4c52-bb6b-dd843386f76f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_14.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7125fca2-1a06-4c4d-8b88-f51dbd188226",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "c669556a-829f-417c-a834-8e41b26dca95",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_14.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "7b3028f0-9c1b-486d-8976-e663c9a17eaa",
+      "sequence_id": "480bceca-b3b7-419c-9aa3-f699322fd8c5",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_15.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3872ebab-b7a9-49ff-8a79-025bd32ed3e8",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "d7b7f84c-700e-4bf2-8168-871aad4e8e99",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_15.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "56a460e8-6505-41ca-929d-a56065eb39f4",
+      "sequence_id": "bdbe39a6-bc1d-422b-954f-4860c6b991b3",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_16.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "47f824a3-b6df-4eb7-8870-e2d1d64ab1f3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "c9ec4891-7fd7-4cb1-997a-c1bdac027e84",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_16.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "ac63c5e9-b063-4b24-86ef-5a71e17c9524",
+      "sequence_id": "f66c15ba-8d2f-4d03-b04d-b15b6ee16fbc",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_17.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "47500ebc-a27f-4b2b-a555-ee87da0880d7",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "a2f5c671-85f5-4e01-9907-5582f234271a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_17.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "de0793bf-ebdb-42f9-80a3-92ed392ded44",
+      "sequence_id": "64037683-ae09-49b8-b2c9-f599f07074e4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_18.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "51247160-fc89-433e-bab5-4f76912a0b56",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "5b488d44-e899-49f1-808c-e93f0aa17092",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_18.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2eadb8b7-7052-441c-9567-de3c8fb50795",
+      "sequence_id": "c629455f-b564-4549-b64c-eca19faf7ea0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_19.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "93b96015-6d39-42d3-a3c0-31c54db8ebae",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "1affd7c4-b86f-46c3-aca8-a328745c6f4a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_19.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "643f749a-66dd-445e-bb38-cff4e1965235",
+      "sequence_id": "905a0ad0-fc2b-4766-9712-53abb39be08b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_20.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "082ce470-4745-411f-adcc-c09a96a2828d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "a034cbc6-d426-4477-a914-0dfa5e4cc781",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_20.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e8d45fcb-0e8e-40e6-9d8c-e8fdfcf4082c",
+      "sequence_id": "fcc4fafe-1cd0-4c39-884e-e74728a38d17",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_21.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "23dba505-eb06-4b87-abd4-d0b603cee9af",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "db9e541a-b920-453d-a5a5-e69ea719e2cd",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_21.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "aa1c0aea-2278-450c-b438-68d67c97f4aa",
+      "sequence_id": "28debf4e-09c9-491a-9f5d-a869488242b6",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_22.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "08bd7fe3-0449-4b51-bcb3-b975aa763c8f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "f55bfa5a-16dc-4fbb-91ee-29cb045bfdd5",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_22.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "cc9afea8-183f-4cbc-9579-754e7c79c407",
+      "sequence_id": "7ead568f-07c5-425d-9574-c91e5e5b482b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_23.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "eebcb1c1-b3a6-4d3a-84cd-a373742bf980",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "9593142b-ce27-49c2-ae40-c9757de29650",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_23.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3926bc65-c6da-4bf1-89db-a5882a7a9c25",
+      "sequence_id": "550c090f-954d-424f-8bd9-f5e8a585033b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_24.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "fc30014a-3080-41fe-b1d5-671ac1b6c170",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "d2a11b96-06b5-46dd-a99e-475b18e68be0",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_24.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c150188c-71e8-44f3-ae28-7edef7aa8dab",
+      "sequence_id": "89717b82-b2eb-441e-8f50-eb0b82c3e846",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_25.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "de743058-644f-4f2f-8c74-533a007fe9f1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "9ff61280-19f1-4d71-8ff7-6835670268fe",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_25.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8597676e-aa24-4c72-81e3-0c8421b69374",
+      "sequence_id": "cb3bf000-5df9-440c-a9a1-e52c7e82567e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_26.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c4e92785-ecc8-417a-a6fd-857bca40b6b6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "1e40afc9-57d3-46cd-b7de-277662f899cb",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_26.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "aec994f9-398a-4ecc-a308-c8daf79e95b2",
+      "sequence_id": "efaf5684-20f9-45f0-814e-6cd2ca2bad0d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_27.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "13985051-dd3d-4187-8c77-ec57b904c0c2",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "02265816-423f-4812-9979-322db19b4428",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_27.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "69f2ec38-3392-4f03-88d6-2889a8a49f04",
+      "sequence_id": "f48e7c98-8be1-4f94-bfc7-40024e00ce4b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_28.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1dc8188f-5272-4725-bb9c-8ff4c0526a93",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "d9da0777-201e-4b93-934c-57c96811151f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_28.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "5573d09f-a0f9-4aef-9eca-b0a07a955a9d",
+      "sequence_id": "2a1647d0-b7a3-4835-9dc3-c23a804d6a74",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_29.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "80e5531f-ee6b-4a7d-8b86-21e970f888ad",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "8bb45243-02e4-4f63-b3c6-75cb8ea4486c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_29.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "96fcd9fc-933a-4395-beaf-7f032cabf395",
+      "sequence_id": "1d059d01-6e55-49b9-bf59-fd1ea549ba3b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_30.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "27e62d0c-3945-46b5-9599-78fa810019b3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "de48e333-bba7-45ed-8e2f-59c574d024e0",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_30.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "17aac2a0-5131-45ab-8887-87198a761646",
+      "sequence_id": "895da4f9-1e15-4ec5-b7e6-b56c817b2c36",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_31.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "52f4b741-0c3f-46b6-bf25-a938f56f789f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 81.0,
+  "y": 260.0,
+  "width": 28.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "67357df6-6aff-4ef8-a0fd-0ab2e82d1f11",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_31.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1578d2ff-d95b-48cb-9bbd-1400b909eabf",
+      "sequence_id": "9965ff52-5f70-423d-8d96-a1b0e1528bc0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_32.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "564f5d26-5e31-4e7b-b5ae-b8ea38afa781",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 82.0,
+  "y": 261.0,
+  "width": 27.0,
+  "height": 37.0
+}
+          ]
+        },
+        {
+          "id": "b89320fe-1cb5-453c-bee2-220bbe156be6",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_32.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3bd18c8-5462-454a-9295-25dfd4e64168",
+      "sequence_id": "403e9e7b-647f-437e-966d-559b96f58c92",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_33.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "544354d8-4077-41f2-ab92-9dfa53c828de",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 82.0,
+  "y": 260.0,
+  "width": 28.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "9862a25f-c2f2-4782-8f6d-2e3ed689dd89",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_33.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ccf507b8-b3a8-480f-999f-04d5ebf072f0",
+      "sequence_id": "e7c0b8b4-3d14-44da-8007-94487a4a22b9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_34.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c1b4707f-bfa7-4319-add3-8ec6ecd5d11f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 82.0,
+  "y": 260.0,
+  "width": 28.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "aff08b33-11ac-453d-a242-a73d1ad26251",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_34.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "023f4047-8c5f-4ecb-934f-5a9e2d350d65",
+      "sequence_id": "ecb98fd8-aceb-4f80-9ab5-f294c760d161",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_35.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a8b87126-0fbb-43c9-96e5-3a4856ec775f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 83.0,
+  "y": 260.0,
+  "width": 27.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "e39df806-7a83-42db-bf2f-17fdf181fd1c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_35.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4030044a-b5af-4870-80be-c19a09cb92b7",
+      "sequence_id": "012ac266-8a54-4538-bab5-b5d73174d424",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_36.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "0a2876f3-89d7-47bb-ac92-9ad987cc5b7e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 15,
+  "x": 67.0,
+  "y": 219.0,
+  "width": 35.0,
+  "height": 35.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 16,
+  "x": 120.0,
+  "y": 327.0,
+  "width": 39.0,
+  "height": 36.0
+}
+          ]
+        },
+        {
+          "id": "2dddb488-7fb7-435a-9040-afb14a0ac093",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_36.png",
+          "values": [
+            {
+  "instance_id": 15,
+  "color": {
+    "r": 0,
+    "g": 22,
+    "b": 255,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 16,
+  "color": {
+    "r": 96,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b10a309a-90d8-47b5-9d58-225260a2163f",
+      "sequence_id": "023bee63-c700-4897-9eb9-aea692ab819b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_37.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b2c642e5-044a-467a-ad09-350334cd7b32",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 15,
+  "x": 67.0,
+  "y": 218.0,
+  "width": 34.0,
+  "height": 36.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 16,
+  "x": 120.0,
+  "y": 332.0,
+  "width": 37.0,
+  "height": 31.0
+}
+          ]
+        },
+        {
+          "id": "f87c7da4-5423-4409-a38b-03b21120936b",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_37.png",
+          "values": [
+            {
+  "instance_id": 15,
+  "color": {
+    "r": 0,
+    "g": 22,
+    "b": 255,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 16,
+  "color": {
+    "r": 96,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "988416fa-86b3-409b-a123-21d5e4ac2088",
+      "sequence_id": "cc4805ed-03ef-49ec-bbfe-e526ea352e33",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_38.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4661749a-bacd-46d5-a20a-94023a6a81c7",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 15,
+  "x": 66.0,
+  "y": 217.0,
+  "width": 33.0,
+  "height": 37.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 16,
+  "x": 120.0,
+  "y": 331.0,
+  "width": 36.0,
+  "height": 31.0
+}
+          ]
+        },
+        {
+          "id": "94067aec-d834-4429-81c1-fe1e8f4ac0ac",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_38.png",
+          "values": [
+            {
+  "instance_id": 15,
+  "color": {
+    "r": 0,
+    "g": 22,
+    "b": 255,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 16,
+  "color": {
+    "r": 96,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93974333-9a95-43a7-a479-eef150142eed",
+      "sequence_id": "5838c76e-b2e5-49da-8978-476e260ac730",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_39.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "0a8a90a1-b24e-42a4-8de5-b02bb02b4ae8",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 15,
+  "x": 66.0,
+  "y": 216.0,
+  "width": 30.0,
+  "height": 38.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 16,
+  "x": 121.0,
+  "y": 328.0,
+  "width": 37.0,
+  "height": 33.0
+}
+          ]
+        },
+        {
+          "id": "71f9f113-aa64-43aa-87eb-3c3bbd2806e5",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_39.png",
+          "values": [
+            {
+  "instance_id": 15,
+  "color": {
+    "r": 0,
+    "g": 22,
+    "b": 255,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 16,
+  "color": {
+    "r": 96,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98700c4a-17ea-458e-9e46-5bd2cd1d6f86",
+      "sequence_id": "85e43bfb-0636-49c6-b7fa-3d8e42aec59a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_40.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "656355f2-f732-43ab-ad9b-017183937634",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 15,
+  "x": 65.0,
+  "y": 215.0,
+  "width": 29.0,
+  "height": 38.0
+},
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 16,
+  "x": 119.0,
+  "y": 327.0,
+  "width": 40.0,
+  "height": 34.0
+}
+          ]
+        },
+        {
+          "id": "c8c7681d-ba8a-4164-8b93-3a2cc2abe078",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_40.png",
+          "values": [
+            {
+  "instance_id": 15,
+  "color": {
+    "r": 0,
+    "g": 22,
+    "b": 255,
+    "a": 255
+  }
+},
+            {
+  "instance_id": 16,
+  "color": {
+    "r": 96,
+    "g": 255,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad9f75df-8a6a-4c2f-9aa2-0e9565d51129",
+      "sequence_id": "b86c60cb-24f7-4492-be08-804d86046697",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_41.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "298496f3-d3e7-4451-ae72-fba0fdd74759",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 106.0,
+  "y": 302.0,
+  "width": 27.0,
+  "height": 16.0
+}
+          ]
+        },
+        {
+          "id": "9149133f-202e-462b-8bd1-ed0690661ca9",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_41.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef6669d3-e5d3-4a1f-bbc5-00724a833a77",
+      "sequence_id": "d3b303b8-bd51-4948-bd6f-d9d2126ad3af",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_42.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "44a5f010-c4a9-41a0-a736-b43c641bb51c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 105.0,
+  "y": 301.0,
+  "width": 28.0,
+  "height": 17.0
+}
+          ]
+        },
+        {
+          "id": "bb321f79-a63e-43f8-9464-f7253f6d8836",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_42.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "577c3c7e-39b0-4149-8b1a-9b2d47f995d2",
+      "sequence_id": "94e9fbb1-7611-4db0-a91a-fe82b4db65af",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_43.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "873e5ef2-72c0-4017-a5d2-f5f4fe340350",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 104.0,
+  "y": 301.0,
+  "width": 30.0,
+  "height": 18.0
+}
+          ]
+        },
+        {
+          "id": "960b2e65-e6b3-4d77-b70b-633340e6b84f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_43.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "246f4b5f-6886-442e-b7be-6b6acde335ec",
+      "sequence_id": "108f45df-0066-4f51-98ea-9dd74f6512da",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_44.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f837a399-c9cd-4bb6-b0b0-913a3fe010bf",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 104.0,
+  "y": 300.0,
+  "width": 29.0,
+  "height": 18.0
+}
+          ]
+        },
+        {
+          "id": "4442dd39-d52a-4b65-9fab-05ed5ec3b22f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_44.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "374f68e4-f2b5-4cd5-9c4a-b829a00a3d33",
+      "sequence_id": "b765712a-8194-4615-924f-cf87cca1c3a5",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_45.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d4908738-fc49-4f42-88cd-ef6a161b9a7b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 104.0,
+  "y": 300.0,
+  "width": 29.0,
+  "height": 18.0
+}
+          ]
+        },
+        {
+          "id": "d42e29f6-fc78-4cf4-9d19-f1a2dcb64ce0",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_45.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb12348f-9bbe-4d1f-8d64-22c906c68661",
+      "sequence_id": "65ce501c-0881-478a-9b90-940c444f14a2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_46.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a0f9bfca-7f8d-437d-9977-e1089501976a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 19,
+  "x": 59.0,
+  "y": 249.0,
+  "width": 34.0,
+  "height": 33.0
+}
+          ]
+        },
+        {
+          "id": "fe31f0d7-c835-4572-b3de-58df4bfc50c5",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_46.png",
+          "values": [
+            {
+  "instance_id": 19,
+  "color": {
+    "r": 255,
+    "g": 191,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2705e53-2a59-48a3-8986-e16185efa8ec",
+      "sequence_id": "347dad97-d6fc-4691-bb89-094a9f648972",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_47.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d243fe6c-e935-4329-9849-0c47879b0e27",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 19,
+  "x": 58.0,
+  "y": 248.0,
+  "width": 34.0,
+  "height": 36.0
+}
+          ]
+        },
+        {
+          "id": "9a28097f-54f4-42b3-a995-14820a7ef760",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_47.png",
+          "values": [
+            {
+  "instance_id": 19,
+  "color": {
+    "r": 255,
+    "g": 191,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "795b3515-e10e-402c-9a7a-e9e83f449690",
+      "sequence_id": "c1041a04-fd1c-4ae7-b434-eac2796c4217",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_48.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a956359d-425a-4f11-b4e8-3d655f7767db",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 19,
+  "x": 61.0,
+  "y": 248.0,
+  "width": 31.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "d159682c-82c9-4423-aa1d-bc1414f55d83",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_48.png",
+          "values": [
+            {
+  "instance_id": 19,
+  "color": {
+    "r": 255,
+    "g": 191,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fab286bf-6fd6-4498-b204-2403aa859b80",
+      "sequence_id": "d58a80e9-882e-4bc4-b4f3-2880744402e7",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_49.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "6d69ae13-ac70-4b8b-9925-289b77c11f52",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 19,
+  "x": 64.0,
+  "y": 248.0,
+  "width": 30.0,
+  "height": 40.0
+}
+          ]
+        },
+        {
+          "id": "51aafd47-90dd-4063-8585-e3c2315f569a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_49.png",
+          "values": [
+            {
+  "instance_id": 19,
+  "color": {
+    "r": 255,
+    "g": 191,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "143d5c10-1653-4b30-b65a-fd7a6e216488",
+      "sequence_id": "ad8e250e-e57c-4998-9684-49c53baa9e48",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_50.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2c044e41-0ef5-4d38-aaab-92e48f4e7e5b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 19,
+  "x": 67.0,
+  "y": 246.0,
+  "width": 30.0,
+  "height": 42.0
+}
+          ]
+        },
+        {
+          "id": "ef37cd8e-4ee3-4510-98d6-7e8589254a47",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_50.png",
+          "values": [
+            {
+  "instance_id": 19,
+  "color": {
+    "r": 255,
+    "g": 191,
+    "b": 0,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4441dda-efe3-4ecc-8af1-935c6e255b55",
+      "sequence_id": "9e038dd2-6c46-43a1-ae59-46225a03f118",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_51.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "66506671-5f73-4538-8fe0-8b0228068b89",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 152.0,
+  "y": 365.0,
+  "width": 43.0,
+  "height": 82.0
+}
+          ]
+        },
+        {
+          "id": "2f57661f-6002-49fa-b138-9827652999d2",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_51.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7986bac3-7069-4c24-8f05-0d1d2d94d4f1",
+      "sequence_id": "6643c415-b9c6-4a1b-b0d9-1217261c19ea",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_52.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e1c0447b-20e3-476b-9078-a91c37803d1e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 147.0,
+  "y": 369.0,
+  "width": 59.0,
+  "height": 79.0
+}
+          ]
+        },
+        {
+          "id": "8678cc3d-4357-4e09-9d6a-36a1ca427154",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_52.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d6e1ac5-c9e2-4fb6-b6b9-c6c2c87f0778",
+      "sequence_id": "9f65ac5f-c603-400b-87b4-d3c15ec9eb50",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_53.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "7836a4e1-27b9-4b7b-aa1e-76b0b464e646",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 132.0,
+  "y": 376.0,
+  "width": 81.0,
+  "height": 75.0
+}
+          ]
+        },
+        {
+          "id": "2e1ad6f4-8aaf-4118-9950-c671056caa5f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_53.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5504bd69-e590-41f9-b049-6f69957636f7",
+      "sequence_id": "d5d15495-b56e-4cf1-867a-f5eed3518e09",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_54.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "03140b1e-1831-4296-a557-f325bbfee0b0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 118.0,
+  "y": 387.0,
+  "width": 97.0,
+  "height": 76.0
+}
+          ]
+        },
+        {
+          "id": "f6cd2dad-7dc1-4884-bedd-2f315dce134d",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_54.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a137ce25-6c62-4bd5-b2e3-03ad1c2117d2",
+      "sequence_id": "f80e115a-cb09-4f95-8e63-f7a11ae4d5d6",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_55.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "5cef51e2-7ccb-4406-9d9a-d0e92e60448c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 18,
+  "x": 114.0,
+  "y": 400.0,
+  "width": 97.0,
+  "height": 76.0
+}
+          ]
+        },
+        {
+          "id": "1718c891-cc5e-41db-8e77-ccf8627b4602",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_55.png",
+          "values": [
+            {
+  "instance_id": 18,
+  "color": {
+    "r": 0,
+    "g": 245,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "860fc88a-cb91-4cbb-9961-7dc8ec769bfc",
+      "sequence_id": "b7fe8ddb-d8f5-48b1-9dc5-93a6727df171",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_56.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "374f395c-39ce-47fc-ba9b-995908dc6dd5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 101.0,
+  "y": 351.0,
+  "width": 36.0,
+  "height": 50.0
+}
+          ]
+        },
+        {
+          "id": "a8f63ed1-f231-4019-8db6-51908155e1c8",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_56.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6587410e-9cf5-4749-bc19-396162422de4",
+      "sequence_id": "a65720c3-3dfd-4095-9a3e-b0d4a4c9d08d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_57.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ffc35c98-9f37-414f-a699-241f236257e1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 101.0,
+  "y": 351.0,
+  "width": 36.0,
+  "height": 51.0
+}
+          ]
+        },
+        {
+          "id": "478d17c5-d166-4848-b0bf-2a0f698c43e8",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_57.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c61e72a-0e8a-4fc4-8fbe-dc52f29f2f81",
+      "sequence_id": "c11138ce-1f17-4d09-bf0b-ba2aa9291709",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_58.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "6b2de338-cbea-48ec-8812-02d3d467a974",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 101.0,
+  "y": 351.0,
+  "width": 36.0,
+  "height": 51.0
+}
+          ]
+        },
+        {
+          "id": "69a91222-f23d-48a6-8870-e955ccfaea50",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_58.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6ead2d9-4623-422d-b7aa-004e3aee9381",
+      "sequence_id": "a43c49bb-7b28-4bd6-ae25-fed6ac99fe86",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_59.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a22c53c5-c87a-445c-b754-7e985aacaecf",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 101.0,
+  "y": 350.0,
+  "width": 36.0,
+  "height": 52.0
+}
+          ]
+        },
+        {
+          "id": "d19cdd5e-da3b-40d3-bb96-cd759a167c6c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_59.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1627bad-3d2c-4642-ad73-936ee70a5641",
+      "sequence_id": "3d9b24a3-27a6-46e8-a14d-f4f41a872f8f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_60.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "92748e2e-c92c-4cc0-b5d5-51b844f021f3",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 101.0,
+  "y": 350.0,
+  "width": 36.0,
+  "height": 52.0
+}
+          ]
+        },
+        {
+          "id": "95c6ef2f-aedb-45e6-bc6f-3c0e387a212d",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_60.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4e5bee1-9691-4533-89f5-13bb2df8cc0f",
+      "sequence_id": "f8d65073-6490-45d9-bb1b-519e829d1be0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_61.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f08b6858-df58-4caa-96e1-84a80fab32ae",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 23,
+  "x": 128.0,
+  "y": 337.0,
+  "width": 26.0,
+  "height": 44.0
+}
+          ]
+        },
+        {
+          "id": "c7794a88-b1ae-46d1-8a90-26f0ab36dd4f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_61.png",
+          "values": [
+            {
+  "instance_id": 23,
+  "color": {
+    "r": 0,
+    "g": 107,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c80aa6c-8c14-4cc2-9feb-1d834aa0c0ad",
+      "sequence_id": "a2aaffc5-9d5b-4f90-ab12-538afb40c7ab",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_62.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "644c818e-e081-47f0-9988-e0e6d2f8235a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 23,
+  "x": 125.0,
+  "y": 339.0,
+  "width": 30.0,
+  "height": 40.0
+}
+          ]
+        },
+        {
+          "id": "da65ce4c-e2f9-4cb8-a444-32a363e2ebb5",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_62.png",
+          "values": [
+            {
+  "instance_id": 23,
+  "color": {
+    "r": 0,
+    "g": 107,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0ffc7c0-2caa-469e-844c-ad82644aeb7e",
+      "sequence_id": "a21a8ec1-28a9-4423-af90-5d068f612783",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_63.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "020d7f95-c3c7-43c6-9120-8a67ab6fa7d9",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 23,
+  "x": 121.0,
+  "y": 341.0,
+  "width": 32.0,
+  "height": 40.0
+}
+          ]
+        },
+        {
+          "id": "a1d1ad46-5169-4d56-8aac-091d46a312f6",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_63.png",
+          "values": [
+            {
+  "instance_id": 23,
+  "color": {
+    "r": 0,
+    "g": 107,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d8e1a76-ec74-407e-b66d-3c4770222111",
+      "sequence_id": "48a96f51-a6d1-4647-b13d-e93f2473919a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_64.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f3d65948-9541-4573-823b-f522c188185c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 23,
+  "x": 117.0,
+  "y": 345.0,
+  "width": 29.0,
+  "height": 35.0
+}
+          ]
+        },
+        {
+          "id": "0aee78b7-0b83-42ed-84dd-ef08b3886517",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_64.png",
+          "values": [
+            {
+  "instance_id": 23,
+  "color": {
+    "r": 0,
+    "g": 107,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6d998e2-d176-4f44-8461-4937caea1459",
+      "sequence_id": "a9b086eb-553e-4d0b-91a1-535a1d43b7c3",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_65.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4e77f356-8677-4f45-8389-6a9929b6ffa1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 23,
+  "x": 111.0,
+  "y": 349.0,
+  "width": 40.0,
+  "height": 25.0
+}
+          ]
+        },
+        {
+          "id": "bc418092-c60a-48e4-8600-216bf60ee7ca",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_65.png",
+          "values": [
+            {
+  "instance_id": 23,
+  "color": {
+    "r": 0,
+    "g": 107,
+    "b": 255,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e154f93a-c7d3-4084-afa5-7a019436c130",
+      "sequence_id": "e9616833-c414-45d3-83f5-e5771f92cba0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_66.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "4686cd83-c19d-4ad4-848f-9da861223b0b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "f53146da-776b-4d84-8ab2-441813647ab8",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_66.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "996f4c4f-7a74-4629-8cc4-c1d91faadc83",
+      "sequence_id": "b2ba606b-a7bf-442c-8fe6-ed35a5db1284",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_67.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3e0b2bf7-db4f-4951-afcb-925f921cfa2d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "ba0f1cbc-6fb2-4352-ba1a-01a4a23dc5b9",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_67.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "88aa44b4-fbf5-45ac-ac70-8d3d5dd657fe",
+      "sequence_id": "2d0d3428-c21d-4788-926c-bb2deec592c0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_68.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d9abe95a-8f20-4d6b-885e-3e8079d47e18",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "8f287a16-d86c-49f3-90af-e6933c71466d",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_68.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "f78703d6-cff7-4b2f-944e-46b0637a3a99",
+      "sequence_id": "94a7e2c4-9e9d-4a98-b43e-a8b3d2a1528c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_69.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8b988e42-2ae7-4726-b3d3-b3fef7b88ef2",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "a9fc3cf6-c3ec-429f-bf70-1c1686a8dc0b",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_69.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "77658aa8-c1ed-44f0-a961-a7065d223bf1",
+      "sequence_id": "d147ed77-0858-4844-b41d-02fbe2d36616",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_70.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e49a6a24-e64f-4a43-9dd3-b4596f92ce43",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "4dc885f3-746b-436a-ad14-5f1e99a7cd56",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_70.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "7999e477-be36-42b3-ac12-02becde89d02",
+      "sequence_id": "ceeb0854-1389-4b79-8a3f-7726f0ad83f5",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_71.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "19dbd716-c7f0-4b5a-97a4-a23e2afee7db",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 9,
+  "x": 73.0,
+  "y": 297.0,
+  "width": 23.0,
+  "height": 46.0
+}
+          ]
+        },
+        {
+          "id": "7e2e5e5f-b218-4df5-aaa0-b622b5084e00",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_71.png",
+          "values": [
+            {
+  "instance_id": 9,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 85,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7cf482e-59fe-487b-b506-ab43b03fe085",
+      "sequence_id": "647be02c-4410-47e5-9a4c-ee2aee4e67d6",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_72.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c1aaa49a-e5e2-440b-9c31-8b83de66c16a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 9,
+  "x": 71.0,
+  "y": 298.0,
+  "width": 25.0,
+  "height": 44.0
+}
+          ]
+        },
+        {
+          "id": "e437653a-2952-47a9-af61-00a302d69eb8",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_72.png",
+          "values": [
+            {
+  "instance_id": 9,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 85,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3528fdf1-62e9-47b8-9743-be3c4bd38358",
+      "sequence_id": "f81f0af2-fd87-4ba7-8a66-fd5d2a12ac91",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_73.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3aaa4d8a-9eff-440e-8889-6cafe6d26e24",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 9,
+  "x": 65.0,
+  "y": 299.0,
+  "width": 31.0,
+  "height": 41.0
+}
+          ]
+        },
+        {
+          "id": "02d4ef30-4037-4439-9914-9334567af194",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_73.png",
+          "values": [
+            {
+  "instance_id": 9,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 85,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0c1c6d2-fd23-4f0d-8905-400d0c239577",
+      "sequence_id": "5f1ef52d-0c0f-4bb2-a393-24c4eb76b0a0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_74.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "23b2f108-c25e-4545-a25e-eca900e8b8f0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 9,
+  "x": 62.0,
+  "y": 299.0,
+  "width": 33.0,
+  "height": 41.0
+}
+          ]
+        },
+        {
+          "id": "5c056359-2919-4750-b3fe-c697b473627f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_74.png",
+          "values": [
+            {
+  "instance_id": 9,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 85,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32f149b0-959c-46f2-aef2-0e44408e70f0",
+      "sequence_id": "2adf7dd7-ebd4-4a1b-93f8-0aba74b00884",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_75.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "cdbf25f5-4c52-4ca4-9d4c-7598a2ee0731",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 9,
+  "x": 59.0,
+  "y": 300.0,
+  "width": 34.0,
+  "height": 40.0
+}
+          ]
+        },
+        {
+          "id": "c95ad51a-22a0-4081-8360-8209807bb737",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_75.png",
+          "values": [
+            {
+  "instance_id": 9,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 85,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45071b17-05cf-43fd-8c9a-1c788be52b2c",
+      "sequence_id": "deb16c4a-3dd4-43a5-bcec-9b53f02d7c5b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_76.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "79dc71e2-1cba-4034-8404-d0eb5d832483",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 26,
+  "x": 59.0,
+  "y": 262.0,
+  "width": 30.0,
+  "height": 40.0
+}
+          ]
+        },
+        {
+          "id": "7962c473-ddd6-4355-86f0-1e484ab29454",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_76.png",
+          "values": [
+            {
+  "instance_id": 26,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 180,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91c527e7-5012-4932-8a57-a14b9c7541cc",
+      "sequence_id": "904b8c91-e776-4854-ad97-56046fd654b3",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_77.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "2cb6a9e1-50b2-4354-9a81-ebce68c2794b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 26,
+  "x": 59.0,
+  "y": 263.0,
+  "width": 28.0,
+  "height": 39.0
+}
+          ]
+        },
+        {
+          "id": "aaf4f751-7877-4e05-abb2-29de60f23f6c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_77.png",
+          "values": [
+            {
+  "instance_id": 26,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 180,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3aff07c-1c92-4607-b45e-f41a83ded95a",
+      "sequence_id": "a4d55457-383f-4d46-b9ad-779de5d8f35b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_78.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8b564708-2c72-42a4-90c7-5337e5c1c227",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 26,
+  "x": 59.0,
+  "y": 264.0,
+  "width": 28.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "53620032-a297-40ac-af80-68e570f02ac7",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_78.png",
+          "values": [
+            {
+  "instance_id": 26,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 180,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e31fc58-a1ff-4f74-ad76-2555012e4975",
+      "sequence_id": "9db9c627-268c-4cd1-b773-ec606da69ae9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_79.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "65d69118-d755-493d-af91-f3fbb855c030",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 26,
+  "x": 59.0,
+  "y": 264.0,
+  "width": 29.0,
+  "height": 38.0
+}
+          ]
+        },
+        {
+          "id": "ce7e7120-5375-460e-b8bd-97074af02ee4",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_79.png",
+          "values": [
+            {
+  "instance_id": 26,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 180,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7ee0073-1ef4-48ec-a0a0-e0024b48ba81",
+      "sequence_id": "c3f65709-a37d-48c0-9725-989bd6ee8bea",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_80.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "448d183a-0d00-4f19-9055-0d4a16f92b49",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 26,
+  "x": 59.0,
+  "y": 263.0,
+  "width": 29.0,
+  "height": 39.0
+}
+          ]
+        },
+        {
+          "id": "f94cbe73-20e7-4c80-b5f1-f3a06d1c1b1f",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_80.png",
+          "values": [
+            {
+  "instance_id": 26,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 180,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb67db07-d052-42ad-a03d-6280e5f39e24",
+      "sequence_id": "c1ab8023-21b7-4265-a333-f4f1c1e98815",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_81.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a1b289c6-c433-494b-847a-f45935a6a878",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "59481522-85eb-4ca7-80b7-02f21037aa98",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_81.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c4a9af84-973e-444d-af92-696e3b56ddf3",
+      "sequence_id": "0deb12a0-76cd-4209-bdf1-75f502945c01",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_82.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c7a40bd7-5168-4274-8a1c-feb9ac9dfda0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "8b7930f2-92d7-4b13-a6c0-1a3b7e467526",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_82.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "10c97d01-5ffe-43a7-8ddc-2d8fec03007b",
+      "sequence_id": "1c4d36af-b2a0-4a7b-9159-85e6a293bc46",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_83.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a21dacef-313c-4a45-909a-f5ac480ad37e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "8de47862-e70c-48e4-8525-9957adbdfe2c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_83.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8000e80a-6c3a-4137-bbb5-89558f6c0c32",
+      "sequence_id": "dac6ca72-f65f-429b-a43b-bbc0dc53f9b8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_84.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1d525776-8c4f-4556-8733-93e5838cd3f1",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "09bd54a8-1b01-4128-a160-630539ee686e",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_84.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d7a1eda6-1824-4d0c-9290-c17302f9eb05",
+      "sequence_id": "2216ea3d-82c0-4f8b-8002-a64c543ad822",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_85.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "0e5559b4-432e-40b8-948e-a8723e3c86b6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "10d36f08-3bfe-420b-b942-0d1dd7546554",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_85.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bdd58ffd-4e1e-4a9a-a12b-c3f437b7203b",
+      "sequence_id": "ef5dde5f-79b9-41a0-ab4f-f9bc3f775af2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_86.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a37e9cce-9d72-4cd8-a0e6-91e76cb69136",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "c115b2f9-14aa-4752-b4f8-5f0ccb4149bd",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_86.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "73872f5c-0e11-4939-a3e6-9c2d979ff621",
+      "sequence_id": "bbc16938-710d-44a6-974d-f039c13da1b7",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_87.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "6225cd14-2521-42ca-819e-88020e6d1e4c",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "ee0e3f2a-a045-4e54-9d02-4c7d4ec34d41",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_87.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bf4ce290-336b-46b8-9393-60d4dbc2681f",
+      "sequence_id": "d24469f6-8710-46e5-aef0-07307051bcd1",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_88.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "abe9de8b-58ec-432e-a6a8-70d2f03a86b5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "5f997b7d-ca75-4f1f-bb7c-6bbbbc0773b2",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_88.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "f50f2192-17dc-463f-9680-b5e7701d057b",
+      "sequence_id": "702b7175-2afb-4037-9d67-6fc4658169e8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_89.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d653907f-287f-4607-a9bf-094a2ebf1b60",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "eadb6e72-77f7-4736-94e7-75013e863513",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_89.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "cfcd5371-4403-4e01-bda5-c356501e2492",
+      "sequence_id": "4aa75d51-bc91-4ced-9ce1-9b476979ad51",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_90.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9c3a9a62-7655-4b75-8efb-880a9ce1fc85",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": []
+        },
+        {
+          "id": "793796b9-5107-4baf-98dc-c82302cb5c5c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_90.png",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "143a5098-e43e-410a-a0f1-094c1df1a76f",
+      "sequence_id": "ee482057-c1f9-4cd9-bc5b-f66c8838c1bb",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_91.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "82123904-0aed-4e11-984b-b4484aefc6be",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 107.0,
+  "y": 255.0,
+  "width": 33.0,
+  "height": 22.0
+}
+          ]
+        },
+        {
+          "id": "a88b5dff-ccf6-4864-8748-ed57cae7a995",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_91.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "783c907b-73fc-472a-b6f1-17bac123e1dd",
+      "sequence_id": "b49ec430-88bc-480c-822f-b1b55ceecf9f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_92.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3fadf6ee-c109-46da-9b35-6001659fdbfe",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 107.0,
+  "y": 255.0,
+  "width": 33.0,
+  "height": 22.0
+}
+          ]
+        },
+        {
+          "id": "1901e3fa-0fd6-4db8-91f2-ef54063f23c9",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_92.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c04f9b1f-6433-47ef-9acc-e1be132ea513",
+      "sequence_id": "a5056b06-a8af-4f9a-9298-719608bcff4a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_93.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "fe23bd44-acf9-4d44-ade3-023e84ebe5fe",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 107.0,
+  "y": 255.0,
+  "width": 33.0,
+  "height": 22.0
+}
+          ]
+        },
+        {
+          "id": "b4111c9d-0caa-4514-882d-8e9b61e49b2a",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_93.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06009329-b862-4361-b7e8-f610531e6314",
+      "sequence_id": "bc5e89fa-e79a-4eeb-aee4-3e248de25764",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_94.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f57d5506-c367-4827-bc78-b0f34eb83269",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 107.0,
+  "y": 255.0,
+  "width": 33.0,
+  "height": 22.0
+}
+          ]
+        },
+        {
+          "id": "5e9e9daf-35df-42f4-932f-4f1386ea8bf3",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_94.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44aa81bd-80ed-4e39-a5bb-2bfcc70dcb2e",
+      "sequence_id": "4bd866a0-59dc-4635-bb7e-820d92b3bae9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_95.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "080aa1fb-c34f-47e1-8059-c4e69a93b578",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 22,
+  "x": 106.0,
+  "y": 255.0,
+  "width": 34.0,
+  "height": 22.0
+}
+          ]
+        },
+        {
+          "id": "e14b5d3c-3985-47a2-96d3-6be8ac4e45ce",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_95.png",
+          "values": [
+            {
+  "instance_id": 22,
+  "color": {
+    "r": 255,
+    "g": 0,
+    "b": 33,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac73900c-82ce-4080-b2d3-74ac96aa0775",
+      "sequence_id": "91323df7-94f4-4a53-995b-00919277dad8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_96.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d3f20c9d-daa7-4d16-8b40-c447f4b00787",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 55.0,
+  "y": 324.0,
+  "width": 20.0,
+  "height": 42.0
+}
+          ]
+        },
+        {
+          "id": "77108844-b55e-44bb-b7be-cc837922c82c",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_96.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "326d5e86-e18b-4d25-9b2e-a4f4fb4a80d6",
+      "sequence_id": "7f7ff2a4-4537-4881-a814-9058f93bd447",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_97.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c2ba6c92-0e8b-49f6-a2c9-fbe166a526c4",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 56.0,
+  "y": 328.0,
+  "width": 19.0,
+  "height": 39.0
+}
+          ]
+        },
+        {
+          "id": "02f99e7e-5aaa-47ec-a22c-0d7606a73542",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_97.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "981479c3-556a-49ca-831e-a9c6215d41e6",
+      "sequence_id": "4cffae84-b076-4272-8a78-607062bf85e4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_98.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8e4845e7-67fc-4418-b805-0e699e340355",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 56.0,
+  "y": 332.0,
+  "width": 20.0,
+  "height": 35.0
+}
+          ]
+        },
+        {
+          "id": "6e1a1d07-1712-4b39-b922-e0440dffe7bd",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_98.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0155fbaf-e00d-4ade-92d9-8d610a6abd0e",
+      "sequence_id": "2aa547b9-4e27-4187-ba9e-520666ad62df",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_99.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3692e56c-e6c3-4538-ae18-097e3d0d9cef",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 55.0,
+  "y": 337.0,
+  "width": 22.0,
+  "height": 32.0
+}
+          ]
+        },
+        {
+          "id": "18fe5f3a-1fcb-42d6-9b3f-00a973aee9eb",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_99.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "959fa94d-931f-4afd-ba3e-b05464fc45cd",
+      "sequence_id": "44e21710-7f6d-4080-958a-1b94d57af385",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "88da2d68-2b48-40df-9279-0379ed76330b",
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.00000012
+        ],
+        "camera_intrinsic": [
+          [
+            3.91308212,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            5.217443,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0006001
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "097aecba-8742-4179-ba8f-75443df4957b",
+        "translation": [
+          75.1,
+          18.2,
+          -2.5
+        ],
+        "rotation": [
+          0.053537,
+          -0.62818,
+          0.0220007971,
+          0.775912166
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB93ab6235-b99c-49f9-ac26-6fe2452c096c/rgb_100.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b2264d60-b99c-435d-9ba0-d0326c072a99",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Mixamo",
+  "instance_id": 13,
+  "x": 54.0,
+  "y": 346.0,
+  "width": 22.0,
+  "height": 25.0
+}
+          ]
+        },
+        {
+          "id": "599445c3-bad5-4316-a1e2-86906dd95362",
+          "annotation_definition": "1ccebeb4-5886-41ff-8fe0-f911fa8cbcdf",
+          "filename": "InstanceSegmentation36f3df23-5105-4409-ba32-f7c3ececa18f/Instance_100.png",
+          "values": [
+            {
+  "instance_id": 13,
+  "color": {
+    "r": 0,
+    "g": 255,
+    "b": 127,
+    "a": 255
+  }
+}
+          ]
+        }
+      ]
+    }
+  ]
+}
