@@ -1,6 +1,7 @@
 import os
 
 import matplotlib.pyplot as plt
+import numpy as np
 import tensorflow as tf
 
 batch_size = 32
@@ -87,7 +88,7 @@ model.compile(
     optimizer=tf.keras.optimizers.Adam(
         learning_rate=0.001,
         beta_1=0.9,
-        beta_2=0.9999,
+        beta_2=0.999,
         epsilon=1e-08,
         amsgrad=False,
         name="Adam"),
@@ -126,3 +127,10 @@ model.save("model-bit-too-good.h5")
 
 results = model.evaluate(test_ds, batch_size=128)
 print("test loss, test acc:", results)
+
+y_true = np.concatenate([y for x, y in test_ds], axis=0)
+y_pred = model.predict(test_ds)
+y_pred = np.argmax(y_pred, axis=1)
+con_mat = tf.math.confusion_matrix(labels=y_true, predictions=y_pred).numpy()
+print(con_mat)
+
